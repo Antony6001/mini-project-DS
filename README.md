@@ -1,18 +1,19 @@
+# 🚀 Uber Eats Bangalore – Restaurant Intelligence & Decision Support System
 
-PROJECT TITLE:
-Uber Eats Bangalore – Restaurant Intelligence & Decision Support System
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
+ 📌 Project Overview
 
+This project analyzes Uber Eats Bangalore restaurant data and builds a SQL-driven decision support system.
 
-
-📌 Project Overview
-This project analyzes Uber Eats Bangalore restaurant data and builds a SQL-driven decision support system to help businesses make smarter decisions regarding:
-📍 Location strategy
-💰 Pricing optimization
-🍜 Cuisine performance
-⭐ Customer satisfaction
-📲 Platform features (online ordering & table booking)
-Unlike typical dashboards, this system focuses on pure tabular insights (DataFrames) — similar to real-world internal analytics tools.
+- 📍 Location strategy  
+- 💰 Pricing optimization  
+- 🍜 Cuisine performance  
+- ⭐ Customer satisfaction  
+- 📲 Platform features  
 
 🎯 Objective:
 
@@ -20,17 +21,6 @@ To design a scalable analytics system that:
 1.Uses SQL for all business logic
 2.Delivers accurate, structured insights
 3.Enables data-driven decision-making
-
-
-🧠 Tech Stack:
-
-Category -- Tools Used
-Language : Python
-Libraries :	Pandas, NumPy
-Database :	MySQL
-App Framework	: Streamlit
-Data Format :	CSV + JSON
-
 
 ⚙️ Project Architecture:
 
@@ -47,6 +37,13 @@ SQL Queries (Analytics Layer)
         ↓
 Streamlit App (UI)
 
+
+🧠 Skills & Technologies
+Python (Pandas, NumPy)
+MySQL (SQL Queries, GROUP BY, CASE WHEN)
+Streamlit (Data App Development)
+Data Cleaning & Feature Engineering
+Statistical Analysis
 
 
 🔧 Features
