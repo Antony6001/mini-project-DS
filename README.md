@@ -76,9 +76,9 @@ Statistical Analysis
 
 💼 Business Use Cases:
 
-1.Location Intelligence
-2.Pricing Strategy
-3.Cuisine Analysis
-4.Partner Onboarding
-Customer Satisfaction
-Expansion Planning
+- 📍 Location Intelligence  
+- 💰 Pricing Strategy  
+- 🍽️ Cuisine Analysis  
+- 🤝 Partner Onboarding  
+- 😊 Customer Satisfaction  
+- 🚀 Expansion Planning  
