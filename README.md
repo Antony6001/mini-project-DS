@@ -76,9 +76,9 @@ Streamlit App (UI)
 
 💼 Business Use Cases:
 
-Location Intelligence
-Pricing Strategy
-Cuisine Analysis
-Partner Onboarding
+1.Location Intelligence
+2.Pricing Strategy
+3.Cuisine Analysis
+4.Partner Onboarding
 Customer Satisfaction
 Expansion Planning
