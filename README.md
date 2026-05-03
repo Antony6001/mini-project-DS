@@ -2,6 +2,9 @@
 PROJECT TITLE:
 Uber Eats Bangalore – Restaurant Intelligence & Decision Support System
 
+
+
+
 📌 Project Overview
 This project analyzes Uber Eats Bangalore restaurant data and builds a SQL-driven decision support system to help businesses make smarter decisions regarding:
 📍 Location strategy
